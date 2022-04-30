@@ -1,0 +1,1 @@
+PRODUCT_MAKEFILES += $(LOCAL_DIR)/spark_a20.mk
